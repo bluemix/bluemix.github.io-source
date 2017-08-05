@@ -8,6 +8,18 @@ Music, at its essence, is what gives us memories. And the longer a song has exis
 {% endblockquote %}
 
 
+
+### <center>♯ 🎼 🎶 🎹 🎵</center>
+{% blockquote August 3rd, 2017  %}
+Publishing my new blog on http://bluemix.me 🙂
+
+{% youtube z9BPMjL44Aw %}
+{% endblockquote %}
+
+
+
+
+
 ### Here are the music that I liked and what was I doing
 
 
@@ -23,5 +35,6 @@ Customized [Hexo](https://hexo.io) theme [Vexo](https://github.com/yanm1ng/hexo-
 
 {% youtube o0Pt7M0weUI %}
 {% endblockquote %}
+
 
 
