@@ -10,10 +10,10 @@ title: CV
 ### Online سوق (Android, iOS)
 
 ##### An e-commerce app that allows government employees to shop by installments and order them at the specefied date and time.
-{% img /images/shopping-iq-ios-home-en.png 145 Online سوق iOS app: English home page %}
-{% img /images/shopping-iq-ios-home-ar.png 145 Online سوق iOS iOS: Arabic home page %}
-{% img /images/shopping-iq-android-home-en.png 145 Online سوق Android app: English home page  %}
-{% img /images/shopping-iq-android-home-ar.png 145 Online سوق Andorid app: Arabic home page %}
+{% img /images/projects/shopping-iq-ios-home-en.jpg 145 Online سوق iOS app: English home page %}
+{% img /images/projects/shopping-iq-ios-home-ar.jpg 145 Online سوق iOS iOS: Arabic home page %}
+{% img /images/projects/shopping-iq-android-home-en.jpg 145 Online سوق Android app: English home page  %}
+{% img /images/projects/shopping-iq-android-home-ar.jpg 145 Online سوق Andorid app: Arabic home page %}
 
 <br>
 <center>🔸</center>
@@ -34,10 +34,10 @@ title: CV
 #### RxJava, [FileDownloader](https://github.com/lingochamp/FileDownloader), [OkHttp](http://square.github.io/okhttp/), [Dexter](https://github.com/Karumi/Dexter), [SlimChart](https://github.com/mancj/SlimChart) and others
 <br>
 
-{% img /images/share2-top-uploaders-screenshot.png 145 Share2 android app: Top uploaders %}
-{% img /images/share2-home-screenshot.png 145 Share2 android app: Home  %}
-{% img /images/share2-categories-screenshot.png 145 Share2 android app: Categories %}
-{% img /images/share2-downloads-screenshot.png 145 Share2 android app: Downloads activity %}
+{% img /images/projects/share2-top-uploaders-screenshot.jpg 145 Share2 android app: Top uploaders %}
+{% img /images/projects/share2-home-screenshot.jpg 145 Share2 android app: Home  %}
+{% img /images/projects/share2-categories-screenshot.jpg 145 Share2 android app: Categories %}
+{% img /images/projects/share2-downloads-screenshot.jpg 145 Share2 android app: Downloads activity %}
 
 
 ### Cinemana App (Android <sup>[Link](https://play.google.com/store/apps/details?id=com.shabakaty.cinemana)</sup>, iOS <sup>[Link](https://itunes.apple.com/us/app/shabakaty-cinemana/id1231843767?mt=8)</sup>)
@@ -52,34 +52,34 @@ title: CV
 #### RxJava, Kotlin, OkHttp, Picasso, [Nanotasks](https://github.com/fabiendevos/nanotasks), and many others...
 <br>
 
-{% img /images/cinemana-android-app-home-ar.png 145 Cinemana Android App: Home screen %}
-{% img /images/cinemana-android-app-info-ar.png 145 Cinemana Android App: Home screen %}
+{% img /images/projects/cinemana-android-app-home-ar.jpg 145 Cinemana Android App: Home screen %}
+{% img /images/projects/cinemana-android-app-info-ar.jpg 145 Cinemana Android App: Home screen %}
 
-{% img /images/cinemana-android-app-movies-ar.png 145 Cinemana Android App: Home screen %}
-{% img /images/cinemana-android-app-movies-light-ar.png 145 Cinemana Android App: Home screen %}
-{% img /images/cinemana-android-app-info-light-ar.png 145 Cinemana Android App: Home screen %}
-{% img /images/cinemana-android-app-movies-en.png 145 Cinemana Android App: Home screen %}
+{% img /images/projects/cinemana-android-app-movies-ar.jpg 145 Cinemana Android App: Home screen %}
+{% img /images/projects/cinemana-android-app-movies-light-ar.jpg 145 Cinemana Android App: Home screen %}
+{% img /images/projects/cinemana-android-app-info-light-ar.jpg 145 Cinemana Android App: Home screen %}
+{% img /images/projects/cinemana-android-app-movies-en.jpg 145 Cinemana Android App: Home screen %}
 
-{% img /images/cinemana-android-app-player-ar.png 145 Cinemana Android App: Home screen %}
-{% img /images/cinemana-android-app-search-ar.png 145 Cinemana Android App: Home screen %}
+{% img /images/projects/cinemana-android-app-player-ar.jpg 145 Cinemana Android App: Home screen %}
+{% img /images/projects/cinemana-android-app-search-ar.jpg 145 Cinemana Android App: Home screen %}
 
-{% img /images/cinemana-ios-app-categories-ar.jpg 145 Cinemana Android App: Home screen %}
-{% img /images/cinemana-ios-app-categories-en.jpg 145 Cinemana Android App: Home screen %}
+{% img /images/projects/cinemana-ios-app-categories-ar.jpg 145 Cinemana Android App: Home screen %}
+{% img /images/projects/cinemana-ios-app-categories-en.jpg 145 Cinemana Android App: Home screen %}
 
-{% img /images/cinemana-ios-app-episodes-ar.jpg 145 Cinemana Android App: Home screen %}
-{% img /images/cinemana-ios-app-episodes-en.jpg 145 Cinemana Android App: Home screen %}
+{% img /images/projects/cinemana-ios-app-episodes-ar.jpg 145 Cinemana Android App: Home screen %}
+{% img /images/projects/cinemana-ios-app-episodes-en.jpg 145 Cinemana Android App: Home screen %}
 
-{% img /images/cinemana-ios-app-info-ar.jpg 145 Cinemana Android App: Home screen %}
-{% img /images/cinemana-ios-app-info-en.jpg 145 Cinemana Android App: Home screen %}
+{% img /images/projects/cinemana-ios-app-info-ar.jpg 145 Cinemana Android App: Home screen %}
+{% img /images/projects/cinemana-ios-app-info-en.jpg 145 Cinemana Android App: Home screen %}
 
-{% img /images/cinemana-ios-app-more-info-ar.jpg 145 Cinemana Android App: Home screen %}
-{% img /images/cinemana-ios-app-more-info-en.jpg 145 Cinemana Android App: Home screen %}
+{% img /images/projects/cinemana-ios-app-more-info-ar.jpg 145 Cinemana Android App: Home screen %}
+{% img /images/projects/cinemana-ios-app-more-info-en.jpg 145 Cinemana Android App: Home screen %}
 
-{% img /images/cinemana-ios-app-movies-ar.jpg 145 Cinemana Android App: Home screen %}
-{% img /images/cinemana-ios-app-movies-en.jpg 145 Cinemana Android App: Home screen %}
+{% img /images/projects/cinemana-ios-app-movies-ar.jpg 145 Cinemana Android App: Home screen %}
+{% img /images/projects/cinemana-ios-app-movies-en.jpg 145 Cinemana Android App: Home screen %}
 
-{% img /images/cinemana-ios-app-sorting-ar.jpg 145 Cinemana Android App: Home screen %}
-{% img /images/cinemana-ios-app-sorting-en.jpg 145 Cinemana Android App: Home screen %}
+{% img /images/projects/cinemana-ios-app-sorting-ar.jpg 145 Cinemana Android App: Home screen %}
+{% img /images/projects/cinemana-ios-app-sorting-en.jpg 145 Cinemana Android App: Home screen %}
 
 
 
@@ -95,13 +95,13 @@ title: CV
 <br>
 
 
-{% img /images/cinemana-cbox-home-movies-ar.png 290 Cinemana Leanback on Android TV: Movies %}
-{% img /images/cinemana-cbox-categories-ar.png 290 Cinemana Leanback on Android TV: Categories %}
+{% img /images/projects/cinemana-cbox-home-movies-ar.jpg 290 Cinemana Leanback on Android TV: Movies %}
+{% img /images/projects/cinemana-cbox-categories-ar.jpg 290 Cinemana Leanback on Android TV: Categories %}
 
-{% img /images/cinemana-cbox-category-action-movies-ar.png 290 Cinemana Leanback on Android TV: Action movies category %}
+{% img /images/projects/cinemana-cbox-category-action-movies-ar.jpg 290 Cinemana Leanback on Android TV: Action movies category %}
 
 
-{% img /images/cinemana-cbox-home-the-blacklist-series-selection-ar.png 290 CBox Launcher on Android TV: The blacklist series entrance %}
+{% img /images/projects/cinemana-cbox-home-the-blacklist-series-selection-ar.jpg 290 CBox Launcher on Android TV: The blacklist series entrance %}
 
 
 
@@ -110,14 +110,14 @@ title: CV
 ##### This was my first project on an STB at the company back to June 2015. It was planned to be finished after a week! 😀, and lasts for about 5 months in development. The main reason, was that the company were unsure and have vague vision of what this project would actually do. So, up on their unstable and unsure submitted needs, I spent the time learning more and more about Android and how deal with JSON, RESTful APIs, how to exploit GitHub libraries that ease development, how to customize views and how to use text fonts for appropriate UI position, i.e., primary and secondary texts, light, normal and bold weight; how to use localizations and dark and light app thems. I also learned a lot about UI/UX from my fellows (specefically, our department manager [Huthaifa](http://huthaifa-abd.com) and our director at that time [Ali Usam Al Cherchefchi](https://www.facebook.com/profile.php?id=687503386&ref=br_rs)). They were really kind and give every help you might wanted for. _Earthlink subscribers only_.
 <br>
 
-{% img /images/cinemana-stb-episodes.png 290 MyHR Android App: scheduling request %}
-{% img /images/cinemana-stb-categories.png 290 MyHR Android App: scheduling request %}
+{% img /images/projects/cinemana-stb-episodes.jpg 290 MyHR Android App: scheduling request %}
+{% img /images/projects/cinemana-stb-categories.jpg 290 MyHR Android App: scheduling request %}
 
-{% img /images/cinemana-stb-info.png 290 MyHR Android App: scheduling request %}
-{% img /images/cinemana-stb-movies-home.png 290 MyHR Android App: scheduling request %}
+{% img /images/projects/cinemana-stb-info.jpg 290 MyHR Android App: scheduling request %}
+{% img /images/projects/cinemana-stb-movies-home.jpg 290 MyHR Android App: scheduling request %}
 
-{% img /images/cinemana-stb-episodes-en.png 290 MyHR Android App: scheduling request %}
-{% img /images/cinemana-stb-categories-en.png 290 MyHR Android App: scheduling request %}
+{% img /images/projects/cinemana-stb-episodes-en.jpg 290 MyHR Android App: scheduling request %}
+{% img /images/projects/cinemana-stb-categories-en.jpg 290 MyHR Android App: scheduling request %}
 
 
 ### CBox Launcher (Android TV)
@@ -125,10 +125,10 @@ title: CV
 ##### It is a complement for Cinemana STB, since there must be a launcher that shows company internal apps at the launcher home screen. It was re-implemented three times, with each iteration having a complete different UI. The third iteration moved the app to Android TV to work with Cinemana Leanback, as shown in the screenshots. _Earthlink subscribers only_.
 <br>
 
-{% img /images/cbox-launcher-home-2.png 290 CBox Launcher on Android TV: Home screen %}
-{% img /images/cbox-launcher-home.png 290 CBox Launcher on Android TV: Home screen %}
-{% img /images/cbox-launcher-shortcuts.png 290 CBox Launcher on Android TV: Shortcuts %}
-{% img /images/cbox-launcher-remove-menu.png 290 CBox Launcher on Android TV: Remove menu %}
+{% img /images/projects/cbox-launcher-home-2.jpg 290 CBox Launcher on Android TV: Home screen %}
+{% img /images/projects/cbox-launcher-home.jpg 290 CBox Launcher on Android TV: Home screen %}
+{% img /images/projects/cbox-launcher-shortcuts.jpg 290 CBox Launcher on Android TV: Shortcuts %}
+{% img /images/projects/cbox-launcher-remove-menu.jpg 290 CBox Launcher on Android TV: Remove menu %}
 
 
 ### MyHR (Android, iOS)
@@ -136,8 +136,8 @@ title: CV
 ##### Internal app for employees to request a vacation by days or by hours. It also shows tables about entrance and exit exceptions and general employee information. _Earthlink subscribers only_.
 <br>
 
-{% img /images/myhr-android-home-info.png 145 MyHR Android App: home page for employee information %}
-{% img /images/myhr-android-schedule.png 145 MyHR Android App: scheduling request %}
+{% img /images/projects/myhr-android-home-info.jpg 145 MyHR Android App: home page for employee information %}
+{% img /images/projects/myhr-android-schedule.jpg 145 MyHR Android App: scheduling request %}
 
 
 <br>
@@ -154,8 +154,8 @@ title: CV
 #### RxJava for incomming messages
 <br>
 
-{% img /images/arasat-chat-home.png 145 MyHR Android App: scheduling request %}
-{% img /images/arasat-chat-room.png 145 MyHR Android App: home page for employee information %}
+{% img /images/projects/arasat-chat-home.jpg 145 MyHR Android App: scheduling request %}
+{% img /images/projects/arasat-chat-room.jpg 145 MyHR Android App: home page for employee information %}
 
 
 
@@ -173,9 +173,9 @@ title: CV
 <br>
 
 
-{% img /images/waraqa-android-home-yellow.jpg 145 MyHR Android App: home page for employee information %}
-{% img /images/waraqa-android-home-dark.jpg 145 MyHR Android App: home page for employee information %}
-{% img /images/waraqa-android-home-light.jpg 145 MyHR Android App: home page for employee information %}
+{% img /images/projects/waraqa-android-home-yellow.jpg 145 MyHR Android App: home page for employee information %}
+{% img /images/projects/waraqa-android-home-dark.jpg 145 MyHR Android App: home page for employee information %}
+{% img /images/projects/waraqa-android-home-light.jpg 145 MyHR Android App: home page for employee information %}
 
 <center>🔸</center>
 # University of Technology
