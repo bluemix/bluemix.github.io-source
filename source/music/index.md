@@ -10,17 +10,22 @@ Music, at its essence, is what gives us memories. And the longer a song has exis
 
 
 ### <center>♯ 🎼 🎶 🎹 🎵</center>
+
+
+### Here are the music that I liked and what was I doing
+
+
+{% blockquote August 15th, 2017  %}
+When I created users, snippets and tags CRUD REST in Expose and Ktor for Hawajes.
+{% youtube CZXLLMbJdZ4 %}
+{% endblockquote %}
+
 {% blockquote August 3rd, 2017  %}
 Publishing my new blog on http://bluemix.me 🙂
 
 {% youtube z9BPMjL44Aw %}
 {% endblockquote %}
 
-
-
-
-
-### Here are the music that I liked and what was I doing
 
 
 {% blockquote August 2nd, 2017  %}
