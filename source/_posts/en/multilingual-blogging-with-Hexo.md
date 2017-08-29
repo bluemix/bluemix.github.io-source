@@ -1,5 +1,5 @@
 ---
-title: Multilingual blogging with Hexo
+title: Multilingual Blogging with Hexo
 lang: en
 direction: ltr
 date: 2017-08-01 22:48:23

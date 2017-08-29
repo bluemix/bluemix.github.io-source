@@ -93,7 +93,7 @@ deploy:
   type: git
   repo: https://github.com/bluemix/bluemix.github.io.git
   branch: master
-  message: "projects page: Cinemana STB demo link"
+  message: "projects page article"
 
 social:
   github: https://github.com/bluemix
