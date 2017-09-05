@@ -14,6 +14,11 @@ Music, at its essence, is what gives us memories. And the longer a song has exis
 
 ### Here are the music that I liked and what was I doing
 
+{% blockquote September 5th, 2017  %}
+While I finished my 'when will you get married' article.
+{% youtube eFTLKWw542g %}
+{% endblockquote %}
+
 
 {% blockquote August 15th, 2017  %}
 When I created users, snippets and tags CRUD REST in Expose and Ktor for Hawajes.

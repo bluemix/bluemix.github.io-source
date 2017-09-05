@@ -1,1 +1,1 @@
-The source code for http://bluemix.github.io. Statically generated using [Hexo](http://hexo.io)
+The source code for http://bluemix.github.io. Statically generated using [Hexo](http://hexo.io).

@@ -24,7 +24,7 @@ title: Projects
 # Earthlink Telecommunications
 ##### You can't imagine how I adore and remember my fellows and friends at this company. It was one of the top places that I ever worked and lived in my life (I was living at the company for two years). All of those projects wouldn't incept without their support, friendship, and kindness. They were the best.
 
-> Internal and external projects from 2015-2017 (2 years + 3 months)
+> Projects from 2015-2017 (2 years + 3 months)
 
 
 ### Share App (Android <sup>[Link](https://play.google.com/store/apps/details?id=com.shabakaty.shareapp)</sup>)
