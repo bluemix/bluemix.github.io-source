@@ -3,6 +3,11 @@ title: Quotes | حِكم
 date: 2017-07-30 11:25:13
 ---
 
+{% blockquote Richard Feynman  %}
+What I cannot create, I do not understand
+{% endblockquote %}
+
+
 {% blockquote Edgar Allan Poe, The System of Doctor Tarr and Professor Fether  %}
 Believe nothing you hear, and only one half that you see.
 {% endblockquote %}
