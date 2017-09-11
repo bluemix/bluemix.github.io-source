@@ -27,8 +27,8 @@ First of all, let's install some required packages.
 #### **[SDKMAN!](https://github.com/sdkman/sdkman-cli)**
   `$ curl -s https://get.sdkman.io | bash`
 
-  then, this must be run at your user directory, e.g., at `/home/USERNANE/` path:
-  `$ source "/home/bluemix/.sdkman/bin/sdkman-init.sh"`
+  then, this must be run at your user directory, e.g., at `/home/<USERNANE>/` path:
+  `$ source "/home/<USERNANE>/.sdkman/bin/sdkman-init.sh"`
   
     
 
