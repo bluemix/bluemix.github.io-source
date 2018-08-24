@@ -93,7 +93,7 @@ deploy:
   type: git
   repo: https://github.com/bluemix/bluemix.github.io.git
   branch: master
-  message: "updating مقتطفات من سيرة حياتي"
+  message: "vip-cards.png"
 
 social:
   github: https://github.com/bluemix
