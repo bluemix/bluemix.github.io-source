@@ -1,5 +1,5 @@
 ---
-title: 2017's summer rehab
+title: 2017's Summer Rehab
 lang: en
 direction: ltr
 date: 2017-10-02 20:20:20

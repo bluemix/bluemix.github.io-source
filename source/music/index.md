@@ -14,6 +14,15 @@ Music, at its essence, is what gives us memories. And the longer a song has exis
 
 ### Here are the music that I liked and what was I doing
 
+
+{% blockquote March 20th, 2018  %}
+Running Al-Tameer Odoo to HR manager. 
+I was working on enhancing the posting of CakeHR leaves to Odoo.
+{% youtube ST86JM1RPl0 %}
+{% endblockquote %}
+
+
+
 {% blockquote September 5th, 2017  %}
 While I finished my 'when will you get married' article.
 {% youtube eFTLKWw542g %}
