@@ -93,7 +93,7 @@ deploy:
   type: git
   repo: https://github.com/bluemix/bluemix.github.io.git
   branch: master
-  message: "Privacy Policy for AlTammerHR"
+  message: "blurring my name and case id in some of the images of Apple Developer Program article"
 
 social:
   github: https://github.com/bluemix
