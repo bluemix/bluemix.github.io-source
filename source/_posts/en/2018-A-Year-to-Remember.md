@@ -96,17 +96,13 @@ One thing to mention and not to forget about, is that, the work on this app was 
 
 
 
-### Tourism Demo App
+### <div><span style="float: left">Tourism Demo App</span><span style="float: right; margin-top: 4px">{% raw %}<a class="github-button" href="https://github.com/bluemix/tourism-demo" data-show-count="true" aria-label="Star bluemix/tourism-demo on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script>{% endraw %}</span></div>
+<br><br>
 
 It was Eid Al-Fitr (after Ramadan), and I wanted to build cutting-edge, beautiful, and fast. I wanted to build the best I can do with Flutter and then publishing it on GitHub. 
 
 <br>
 
-{% raw %}
-<div class="github-card" data-github="bluemix/tourism-demo" data-width="600" data-height="" data-theme="default"></div>
-<script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
-{% endraw %}
-<br>
 
 {% img /assets/tourism/flutter-tourism-demo-400x300.gif 450 tourism-demo-flutter %}
 
@@ -182,16 +178,13 @@ Before I started my next production-level project, I needed to understand an arc
 It is the first time I develop an app inspired by gradients and curved backgrounds. The challenge was how to create a beautiful HR application, but the problem was all I have was text-based data, e.g., check-ins and check-outs, attendance summary, leave requests, etc... and the only image avaiable was the employee avatar picture. So, in order to add colors and shapes to the app, gradient buttons and gradient background is added, to contain the dullnes of text-only data. 
 The app is avaiable on [Google Play](https://play.google.com/store/apps/details?id=com.al_tameer.altameerhr), but still in the pending state for iOS, because, kind of such apps developed specifically for employees requires an enterprise license, instead of publishing it to the AppStore (I wanted to upload it to the AppStore, but failed in the review process, insisting this type of apps be outside of the app store).
 
-### Gradient Screens
+### <div><span style="float: left">Gradient Screens </span><span style="float: right; margin-top: 4px">{% raw %}<a class="github-button" href="https://github.com/bluemix/Gradient-Screens" data-show-count="true" aria-label="Star bluemix/Gradient-Screens on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script>{% endraw %}</span></div>
+<br><br>
 
 Inspired by gradients from AlTameerHR app, I said why not creating pages contains gradients, whether buttons, cards, or texts. So, I started designing those screens with the intent of publishing them on GitHub. Some of the screens were my designs, other taken from other UI designers. Below are the repo and its screenshots.
 
 <br>
 
-{% raw %} 
-<div class="github-card" data-github="bluemix/Gradient-Screens" data-width="600" data-height="" data-theme="default"></div>
-<script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
-{% endraw %}
 
 {% img /assets/gradient-screens/gradient_screen_arabic_text_flutter.png 195 Gradients Screen with Arabic text in Flutter %}
 {% img /assets/gradient-screens/intro_page.png 195 Gradients Screen with English text in Flutter %}
@@ -202,11 +195,12 @@ Inspired by gradients from AlTameerHR app, I said why not creating pages contain
 <br>
 
 
-### Gradient Widgets
+### <div><span style="float: left">Gradient Widgets</span><span style="float: right; margin-top: 4px">{% raw %}<a class="github-button" href="https://github.com/bluemix/gradient-widgets" data-show-count="true" aria-label="Star bluemix/gradient-widgets on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script>{% endraw %}</span></div>
+<br><br>
+
+The idea incepted from gradient-screens, by turning gradient widgets into a Dart package and publishing it on GitHub.
 
 
-<div class="github-card" data-github="bluemix/gradient-widgets" data-width="600" data-height="" data-theme="default"></div>
-<script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
 
 <center>
 {% img /assets/gradient-widgets/gradient-widgets-flutter.png 260 Gradient Widgets in Flutter %}
@@ -244,18 +238,37 @@ It was not the first time I go to Sulaymaniyah. This is my second time, and the 
 
 
 - Nooruldeen
-- Part time
 
 
 
 ## Turkey 🇹🇷
 
+
+Istanbul was not just a city for me. It is a mix of different cultures and rife history, reflects to me how Turkey is a civilization, and we're (Iraq) behind them by at least 30 or 40 years, and I believe, it is not only better in terms of quality of life, but, the people's mindset is modern than us. I admire their civil infrastructure, e.g., the roads, road sides, etc..., are built with care and very good finishing.
+The people were kind, helpful and felt like it is a very good place to live. This level of advancements can't be achieved without honest, hard work to develop their country and their mindset.
+
+
+Nikon D750, with 35mm Sigma ART was my companion. The whole 7 days (except for one night), I was shooting whenever I go, in cloudy, light or heavy rain, day and night. All of my best shots were published on [Pexels](https://www.pexels.com/@bluemix). I also post some of them on Facebook. They were my my favorite shots till the time of this writing. Istanbul is beautiful, it is just like designed to be gorgeos from every angle you take picture. It was filled with details.
+
+<br>
 {% raw %}
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fbluemix%2Fposts%2F10218728559667417&width=500" width="500" height="734" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
 {% endraw %}
+<br>
 
+My trip to Turkey, feeled like it is one of the check points in my life. I learned a lot from this country.
+I've used Uber and Google Maps, which really helped me to discover tourism attraction places, especially, Galata Tower (it was not on the trip places to visit list). The first time I use a _powerbank_, because, half the day I was with our guide to show us places, and the other half was free time, where I was disovering new places. The last two days I got really tired from walking long distances with my camera, and you the feeling to return home, althought, new places are always coming to you, and 7 days are not enought to explore Istanbul.
+
+<center>
+{% img /assets/turkey/turkey-walking-health-data.png 200 My average walking distance during my trip to Turkey  %}
+</center>
+
+
+<br>
 
 ## December
+
+The value and bless of work
 
 <!-- <center>
 {% img /images/apple-developer-program/apple-developer-program-purchase-being-processed.png 600 شراء حساب أبل للمطورين - قيد التدقيق %}
