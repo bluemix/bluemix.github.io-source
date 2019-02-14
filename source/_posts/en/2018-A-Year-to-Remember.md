@@ -19,7 +19,7 @@ When I look 12 months back, I see Odoo, Flutter and Turkey. In this 2018 review,
 I'll call it Odoo and Flutter year.
 
 
-### <div><span style="float: left">Restaurant's Menu</span><span style="float: right; margin-top: -2px;">{% raw %}<a href='https://play.google.com/store/apps/details?id=com.tatweer.emenu'><img style='cursor: pointer;' alt='Get it on Google Play' width='85' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/></a>{% endraw %}</span></div>
+### <div><span style="float: left">Restaurant's Menu</span><span style="float: right; margin-top: -2px;">{% raw %}<a href="https://play.google.com/store/apps/details?id=com.tatweer.emenu" style="display:inline-block;overflow:hidden;background:url(https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png) no-repeat;width:85px;height:50px;background-size: contain;"></a>{% endraw %}</span></div>
 <br><br>
 
 
@@ -152,7 +152,7 @@ You can not imagine how much I am proponent against cross-platform mobile framew
 So, the  challenge was to how do it within this time-frame. And, I don't want to to repeat the two-brains-ache for developing Android in Kotlin and iOS with Swift. I wanted to see practical and _beautiful_ solution. I tried ReactNative before, and was not at all satisfied with its UI and programming with JavaScript and the bridge thing. 
 So, I remembered my friend tip: Try Flutter!. I installed the [Flutter Gallery Example](https://play.google.com/store/apps/details?id=io.flutter.demo.gallery), and I was fascinated by its smoothness and UI composition, and most importantly, how it handles RTL at best. The challenge began in May 2018, by learning Flutter and developing our client app within a month. Keep in mind, that I was working full-time (08:00-16:00) at Al-Tameer and working on Flutter at part-time (any four hours after 16:00, after my full-time).
 
-### <div><span style="float: left">GK Auto - Hyundai</span><span style="float: right; margin-top: -4px;">{% raw %}<a href='https://play.google.com/store/apps/details?id=com.tatweer.hyundai'><img style='cursor: pointer;' alt='Get it on Google Play' width='85' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/></a>{% endraw %}</span></div>
+### <div><span style="float: left">GK Auto - Hyundai</span><span style="float: right; margin-top: -4px;">{% raw %}<a href="https://play.google.com/store/apps/details?id=com.tatweer.hyundai" style="display:inline-block;overflow:hidden;background:url(https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png) no-repeat;width:85px;height:50px;background-size: contain;"></a>{% endraw %}</span></div>
 <br><br>
 
 It is not the first time I build a mobile app, and learning Flutter the first time was (for me) not a completely new experience. 
@@ -266,7 +266,7 @@ The challenge for me was how to show to the audience the difference between Flut
 
 
 
-### <div><span style="float: left">AlTameerHR App</span><span style="float: right; margin-top: -4px;">{% raw %}<a href='https://play.google.com/store/apps/details?id=com.al_tameer.altameerhr'><img style='cursor: pointer;' alt='Get it on Google Play' width='85' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/></a>{% endraw %}</span></div>
+### <div><span style="float: left">AlTameerHR App</span><span style="float: right">{% raw %}<a href="https://itunes.apple.com/us/app/altameerhr/id1451702705?mt=8" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/en-us/badge-lrg.svg?releaseDate=2019-02-07&kind=iossoftware&bubble=ios_apps) no-repeat;width:75px;height:45px;background-size: contain;"></a><a href="https://play.google.com/store/apps/details?id=com.al_tameer.altameerhr" style="display:inline-block;overflow:hidden;background:url(https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png) no-repeat;width:85px;height:50px;background-size: contain;"></a>{% endraw %}</span></div>
 <br><br>
 
 Up to that time, I was developing in Flutter without using specific architecture, which led the Hyundai app to become a mess for me, because as the app grows, lots of Widgets will be built and you'll lose focus of where part are you working now. 
@@ -292,7 +292,7 @@ Before I started my next production-level project, I needed to understand an arc
 <br>
 
 It is the first time I develop an app inspired by gradients and curved backgrounds. The challenge was how to create a beautiful HR application, but the problem was all I have was text-based data, e.g., check-ins and check-outs, attendance summary, leave requests, etc... and the only image available was the employee avatar picture. So, in order to add colors and shapes to the app, gradient buttons and gradient background is added, to contain the dullness of text-only data. 
-The app is available on [Google Play](https://play.google.com/store/apps/details?id=com.al_tameer.altameerhr), but still in the pending state for iOS, because, kind of such apps developed specifically for employees requires an enterprise license, instead of publishing it to the AppStore (I wanted to upload it to the AppStore, but failed in the review process, insisting this type of apps be outside of the app store).
+The app is available on [Google Play](https://play.google.com/store/apps/details?id=com.al_tameer.altameerhr), and it was a struggle with iOS on the AppStore, because, kind of such apps developed specifically for employees requires Apple Developer Program for organizations, instead of publishing it under my own _personal_ account (I wanted to upload it to the AppStore, but failed in the review process, insisting this type of apps be outside of the app store or with an account for organizations).
 
 ### <div><span style="float: left">Gradient Screens </span><span style="float: right; margin-top: 4px">{% raw %}<a class="github-button" href="https://github.com/bluemix/Gradient-Screens" data-show-count="true" aria-label="Star bluemix/Gradient-Screens on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script>{% endraw %}</span></div>
 <br><br>

@@ -93,7 +93,7 @@ deploy:
   type: git
   repo: https://github.com/bluemix/bluemix.github.io.git
   branch: master
-  message: "blog post => 2018: A Year to Remember, compressing images using ImageOptim"
+  message: "blog post => 2018: A Year to Remember: some corrections and review"
 
 social:
   github: https://github.com/bluemix
