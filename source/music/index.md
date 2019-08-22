@@ -15,6 +15,16 @@ Music, at its essence, is what gives us memories. And the longer a song has exis
 ### Here are the music that I liked and what was I doing
 
 
+
+{% blockquote March 20th, 2018  %}
+New calculation for multiple range working hours for HR attendance and leaves report.
+Am in love with it and the next one 😌🎵🎼
+<iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="150" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/ae/album/ishraq-illumination-iluminaci%C3%B3n/298649762?i=298649807"></iframe>
+
+<iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="150" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/ae/album/lil-ruth-hadit-the-discours-of-the-soul-discurso-del-alma/298649762?i=298649811"></iframe>
+{% endblockquote %}
+
+
 {% blockquote March 20th, 2018  %}
 Running Al-Tameer Odoo to HR manager. 
 I was working on enhancing the posting of CakeHR leaves to Odoo.
