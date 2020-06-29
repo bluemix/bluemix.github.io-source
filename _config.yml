@@ -93,7 +93,7 @@ deploy:
   type: git
   repo: https://github.com/bluemix/bluemix.github.io.git
   branch: master
-  message: "minor enhancements to 'About typeface' article"
+  message: "article: online payment methods in Iraq"
 
 social:
   github: https://github.com/bluemix
