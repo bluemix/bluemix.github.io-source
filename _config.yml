@@ -46,6 +46,9 @@ post_asset_folder: false
 relative_link: false
 future: true
 
+marked:
+  gfm: true
+  breaks: true
 
 highlight:
   enable: true
@@ -93,7 +96,7 @@ deploy:
   type: git
   repo: https://github.com/bluemix/bluemix.github.io.git
   branch: master
-  message: "article: online payment methods in Iraq"
+  message: "enhancing spacing in article: online payment methods in Iraq"
 
 social:
   github: https://github.com/bluemix
