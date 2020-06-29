@@ -11,7 +11,7 @@ tags:
 	
 ---
 
-> This the personal history about my interest in typefaces. It is not a technical article for fonts or typefaces or type design.
+> This is a personal history about my interests in typefaces. It is not a technical article for fonts or typefaces or type design.
 > Arabic Type Design class, was the main reason to write this article. 
 > You'll notice I will use the words _font_ and _typeface_ interchangibly. They mean the same.
 
