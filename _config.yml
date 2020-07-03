@@ -96,7 +96,7 @@ deploy:
   type: git
   repo: https://github.com/bluemix/bluemix.github.io.git
   branch: master
-  message: "adding more banks for article: online payment methods in Iraq"
+  message: "small note for article: قصتي في إنشاء حساب أبل للمطورين"
 
 social:
   github: https://github.com/bluemix
