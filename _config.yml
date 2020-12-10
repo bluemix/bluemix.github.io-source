@@ -96,7 +96,7 @@ deploy:
   type: git
   repo: https://github.com/bluemix/bluemix.github.io.git
   branch: master
-  message: "minor modifications to article: طرق الدفع الألكتروني في العرا"
+  message: "article: fonts+icons matching"
 
 social:
   github: https://github.com/bluemix
