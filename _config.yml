@@ -96,7 +96,7 @@ deploy:
   type: git
   repo: https://github.com/bluemix/bluemix.github.io.git
   branch: master
-  message: "article: fonts+icons matching"
+  message: "adding arabic article: خطوط عربية للواجهات"
 
 social:
   github: https://github.com/bluemix
