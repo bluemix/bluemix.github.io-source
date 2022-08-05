@@ -8,5 +8,6 @@ The source code for http://bluemix.github.io. Statically generated using [Hexo](
 4) `git comit -m <message>`
 5) add the same message for deployment reason:
    `vim _config.yaml`
-6) `git push`
-7) `hexo deploy`
+6) `git comit -m 'updating _config.yaml commit message'`
+7) `git push`
+8) `hexo deploy`
