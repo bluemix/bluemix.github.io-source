@@ -96,7 +96,7 @@ deploy:
   type: git
   repo: https://github.com/bluemix/bluemix.github.io.git
   branch: master
-  message: "using fixed js asset files inside rexo theme"
+  message: "adding a new blog post: Magdeburg for Expats"
 
 social:
   github: https://github.com/bluemix
