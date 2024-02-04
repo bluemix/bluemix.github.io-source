@@ -8,7 +8,7 @@ date: 2017-07-30 11:33:11
 [خالد حُسني](https://twitter.com/KhaledGhetas)
 [نادين شاهين](http://www.arabictype.com/blog/)
 [مجاهد الويسي](https://web.facebook.com/mujart1)
-[مصطفى محمد](https://www.facebook.com/mustafa1024m)
+مصطفى محمد
 [Tom Preston-Werner](https://github.com/mojombo)
 [Nick Butcher](https://github.com/nickbutcher)
 [Sara Soueidan](https://twitter.com/SaraSoueidan)

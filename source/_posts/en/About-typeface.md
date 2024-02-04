@@ -283,8 +283,7 @@ Before finishing this article, i need to conclude that, Arabic type design cours
 
 ## Resources
 
-* [Screenshot of Almost Famous with subtitles on MBC2](https://www.google.com/search?q=movie+on+mbc+2&tbm=isch&tbs=rimg:CXlm9qEZUMCTImAkbmVuV8GcXsZ50NJFKZTlw7F_1jPHnP9MzJZbpfS4cBP14aiX9xB0-9mPcWS1Ll0dHO3eyMFJa6nbyL1ImuUljlGCZ8gaWQNbi8Qp8F7S1LeD27iX5l_1bvYG3hYI22tSgqEgkkbmVuV8GcXhGZklyKyPUnDCoSCcZ50NJFKZTlEQuEuAoWDYlHKhIJw7F_1jPHnP9MRy-DKRj7NkqIqEgkzJZbpfS4cBBFuAWhpcvRKCioSCf14aiX9xB0-EasP6r7n2bfIKhIJ9mPcWS1Ll0cRB1XaAQK6B0QqEglHO3eyMFJa6hHISTBTzcsmWioSCXbyL1ImuUljEWpduHvqKRCAKhIJlGCZ8gaWQNYRaZu3breCCHIqEgni8Qp8F7S1LRE9YEE1kb_1-jyoSCeD27iX5l_1bvEfrx-PbSYg5vKhIJYG3hYI22tSgRN-e0Aej3SSs&tbo=u&sa=X&ved=2ahUKEwjygPOl2_vjAhWJDuwKHXp6AWAQrnZ6BAgBEBY&biw=1440&bih=759&dpr=2#imgrc=dvIvUia5SWM3eM:
-https://i.ytimg.com/vi/E4ARhFr9mFA/maxresdefault.jpg)
+* [Screenshot of Almost Famous with subtitles on MBC2](https://www.google.com/search?q=movie+on+mbc+2&tbm=isch&tbs=rimg:CXlm9qEZUMCTImAkbmVuV8GcXsZ50NJFKZTlw7F_1jPHnP9MzJZbpfS4cBP14aiX9xB0-9mPcWS1Ll0dHO3eyMFJa6nbyL1ImuUljlGCZ8gaWQNbi8Qp8F7S1LeD27iX5l_1bvYG3hYI22tSgqEgkkbmVuV8GcXhGZklyKyPUnDCoSCcZ50NJFKZTlEQuEuAoWDYlHKhIJw7F_1jPHnP9MRy-DKRj7NkqIqEgkzJZbpfS4cBBFuAWhpcvRKCioSCf14aiX9xB0-EasP6r7n2bfIKhIJ9mPcWS1Ll0cRB1XaAQK6B0QqEglHO3eyMFJa6hHISTBTzcsmWioSCXbyL1ImuUljEWpduHvqKRCAKhIJlGCZ8gaWQNYRaZu3breCCHIqEgni8Qp8F7S1LRE9YEE1kb_1-jyoSCeD27iX5l_1bvEfrx-PbSYg5vKhIJYG3hYI22tSgRNe0Aej3SSs&tbo=u&sa=X&ved=2ahUKEwjygPOl2_vjAhWJDuwKHXp6AWAQrnZ6BAgBEBY&biw=1440&bih=759&dpr=2#imgrc=dvIvUia5SWM3eM:https://i.ytimg.com/vi/E4ARhFr9mFA/maxresdefault.jpg)
 
 
 <!-- <video width="240" controls>

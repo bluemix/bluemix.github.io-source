@@ -2,6 +2,7 @@
 title: Projects
 ---
 
+> Last update: 05.09.2017
 
 # Freelancing
 
