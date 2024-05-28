@@ -14,7 +14,10 @@ tags:
 
 <img src="/images/croatia-may-2024/converted/DSC02154_3_inner_border.jpg" fallback="'fallback1.png'" />
 
-<br><br>
+> This trip was led and organized by Paweł and his own company [Nexus Sailing](https://www.facebook.com/NexusSailing)
+
+<br>
+
 
 Before I started writing this article, I couldn’t figure out from where to start, due to the diverse activities happened in this trip. Why is this trip special to me in comparison to other trips I had from the marshes of Iraq in 2016 till last month hiking in Saxony Switzerland, is that we were a group of people from different ethnics (countries), living in the boat for 8 days and 7 nights!
 Its the sea, that has its own nature and its rules. You have the winds, the waves and boat, and you have to figure out how to make your day through. It is a new _dimension_ that is added to my travel experiences (air + land + sea).
@@ -363,6 +366,12 @@ After that, I was having a bus tip (with FlixBus) from Trogir to Zagreb, and the
 <br>
 {% img /images/croatia-may-2024/converted/IMG_16338FPQP9JM+7C.jpg 298  %}
 {% img /images/croatia-may-2024/converted/IMG_16398FQQRX3V+GF.jpg 298  %}
+
+## Final Words
+
+I wrote this post to share my experience with Paweł and Croatia at the sea. If you find it also exciting, you can contact Paweł’s [Nexus Sailing](https://www.facebook.com/NexusSailing) about which programs or tours available.
+Thanks for your time, and I hope to see you soon.
+
 
 
 
