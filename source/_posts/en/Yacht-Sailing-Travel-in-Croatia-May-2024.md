@@ -3,6 +3,7 @@ title: Yacht Sailing in Croatia - May 2024
 lang: en
 direction: ltr
 date: 2024-05-19 23:06:16
+cover: /images/croatia-may-2024/converted/DSC02154_3_inner_border.jpg
 tags:
 	- croatia
 	- travel
