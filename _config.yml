@@ -96,7 +96,7 @@ deploy:
   type: git
   repo: https://github.com/bluemix/bluemix.github.io.git
   branch: master
-  message: "adding croatia blog post"
+  message: "adding Odoo page"
 
 social:
   github: https://github.com/bluemix
