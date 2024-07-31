@@ -106,13 +106,10 @@ This period of my life was kinda new to me, since it was my first time trying to
 ## Infinity Technologies
 
 
-{% img /odoo/customizations/infinity/odoo-infinity-tech-home-menu.png Sales Report in Odoo %}
+{% img /odoo/customizations/infinity/odoo-infinity-tech-home-menu.png Odoo home menu for Infinity Technologies %}
 
 
-
-This customer (friends by now) have gained me more exprience than all of other companies/customers combined. With this, I learned how accounting, sales, purchase, inventory works (especially accounting!). Luckily, I have tracked all of the customizations in a file. It is a LONG list.
-
-
+[This client](https://infinitytechiq.com) (friends by now) have gained me more exprience than all of other companies/customers combined. With this, I learned how accounting, sales, purchase, inventory works (especially accounting!). Luckily, I have tracked all of the customizations in a file. It is a LONG list.
 
 
 ```markdown
@@ -315,6 +312,89 @@ This customer (friends by now) have gained me more exprience than all of other c
 * [Done] removing payment terms for invoice
 * [Done] removing IQD currency from invoices
 * [Done] adding a button for sales orders to reset the web.base.url
+
+```
+
+
+## SIC-Express
+
+{% img /odoo/customizations/sic-express/sic-express-odoo-home-menu.png Odoo home menu for SIC-Express %}
+
+[This client](https://sic-express.com/) strenthened my accounting exprience further. The great thing is that it is my first time working with an accountant who understands what they needs, and how to do them (clear requirements). I've done also many customizations for them. They're listed below.
+
+
+```markdown
+* Customer
+	* [Done] Links for each item
+	* [Done] Pictures (screenshots) for all items
+		- Thumbnails
+		- List view
+* Accounting
+	- [Done] Bill reference to invoice
+	- [Done] Automatically create a bill from the invoice for the existing products
+	- [Done] USD and IQD
+	- [Done] Adding short description for invoices/bills
+	- [Done] Showing foreign amount for partial payments
+* Invoicing
+	- [Done] Multi-currency (USD + IQD)
+	- [Done] show product cost
+	- Accounts (as bank and cash)
+- [Done] Expenses
+	- Salaries
+	- Rent
+	- Electricity
+	- Internet
+	- Hospitality
+	- Expenses
+	- Credit cards expenses and fees
+- Accounting
+	- [Done] currency exchange between accounts from USD to IQD should reduce the USD account with the amount that is equal to its IQD amount in USD
+- Customer ID
+- Bill
+	- Bill reference should reference invoice 
+- General Ledger Report
+- [Done] Track changes (cost and public price) for invoice/bills products
+- Product category to include shipping type (Economy and Fast)
+- [Done] Product template: adding product weight
+- [Done] Invoice product lines: showing product weight
+- شركة توصيل [Done]
+- [Done] Accounting dashboard: Adding currency exchange rate shortcut
+- [Done] Product weight kg and pound should be added
+- [Done] Contact creation: Individual is set by default instead for Company
+- [Done] Contact image (avatar) zoomed when the mouse hovers
+- [Done] AmazonSwift: Delivery Invoices before Screenshots menu
+- [Done] Product URL: Adding open a new tab button
+- [Done] Bills: Bill date should be set by default to current date
+- [Done] Delivery invoices number comas should be removed
+- [Done] Delivery invoices
+	- adding payment state: 'تم الإستلام' + 'إلغاء' + معلق
+- [Done] Invoice lines should update the product line info (cost and price) when a new product is created
+	- By using "Create and Edit" option when a new product line is inserted in the invoice
+- [Done] Invoice: Adding total cost as Order Total
+- [Done] Invoice: Adding total weight as Order Weight
+	- Total weight in pounds
+	- Total weight in kgs
+* [Done] Inventory information (item quantity, forecasting, etc...)
+* [Cancelled] Preventing WH/OUT when there are not product quantities
+* [Cancelled] Multiple warehouse locations (India, and Baghdad)
+* [Cancelled] البيع بالآجل 
+* [Fixed] Balance sheet is not updating its values
+* [Fixed] Balance sheet view report is not the same as the pdf report
+* [Done] 133.33 USD to 199,95 IQD (it should be 200,000 IQD
+* [Fixed] partial payment caused issues with outstanding payments
+* [Unresolved] إستلام 200 دولار عن طريق debit ، بعدها قبض الـ 200 دولار تطلع بالـ outstanding payments
+* [Note] draft bill title in Journal entries is created by defaul
+* [Done] كشف حساب لأي شخص ، حتى إن كان مصفر
+* [Fixed] bug: when an invoice is reset to draft, a new bill (paired bill) is re-created again
+* [Done] don't allow the same name when creating a new contact
+* [Done] a video on how to create a new user with a limited accounting permissions
+- [Done] homepage logo change and package name change
+- [already existing for accounting billing permission only] accounting
+	- showing dashboard and Overview pages to chief accountants only (regular users only have access to Customers page and onwards)
+- [working as expected] automatic logout
+	- logs out after 1 minute instead of 10 minutes (600 seconds)
+- [Done] adding shipment type (sea, land and air) freights to be showin in the ivnoices tree view as a column (colored like payment status)
+- [Done] General Ledger report: adding a button or a checkbox to indicate a matching state (e.g., coloring the line) and the button should ask when to deactivate it.
 
 ```
 
