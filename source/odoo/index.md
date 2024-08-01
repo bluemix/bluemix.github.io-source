@@ -98,16 +98,12 @@ This report shows generated revenues based on timesheet hours, and forecasted re
 
 # Freelancing: April 2020 - February 2022
 
-
-
-
 This period of my life was kinda new to me, since it was my first time trying to contact clients to see if they need solutions for their company. However, my first client Infinity Technlogies got referred through a friend of mine, while the other one, sic-express, while I was showing then AI-chatbot for their Messenger, but they wanted accounting system instead! XD
 
 ## Infinity Technologies
 
 
 {% img /odoo/customizations/infinity/odoo-infinity-tech-home-menu.png Odoo home menu for Infinity Technologies %}
-
 
 [This client](https://infinitytechiq.com) (friends by now) have gained me more exprience than all of other companies/customers combined. With this, I learned how accounting, sales, purchase, inventory works (especially accounting!). Luckily, I have tracked all of the customizations in a file. It is a LONG list.
 
@@ -400,5 +396,48 @@ This period of my life was kinda new to me, since it was my first time trying to
 
 
 
-# Raban Al-Safina:  October 2017 – April 2020
+# Raban Al-Safina (Al-Tameer):  October 2017 – April 2020
+
+{% img /odoo/customizations/al-tameer/al-tameer-odoo-home-menu.png Odoo home menu for Al-Tameer %}
+
+
+
+My Odoo journy started in Al-Tameer (a sub-branch from Raban Al-Safina), using Odoo 10, where I customized the HR system for this sub-company, and other 7 sub-companies.
+
+At the beginning, Odoo customization, was not easy. Some tasks might took days, even weeks, to finish, due to the bizarre nature of how to develop a plug-in for Odoo and the existence of poor or no documentation. It is awkward and cumbersome; pain with tears to see the results.
+
+My main work was in HR, and the whole idea was to build an HR system + mobile app. I've used Flutter to build the mobile app, because it was cross-platform, and faster to develop.
+
+The Odoo HR customizations was mainly about exporting some xlsx report sheet about employees attendance and if there are any missing checks or delays, or unpaid leaves, then this file is sent to the financial department to cacluate employees salary. It was crucial, because the results will decide how much to pay for each employee. Here is a screenshot of the final xlsx result:
+
+<br>
+
+{% img /odoo/customizations/al-tameer/hr-attendance-summary-xlsx.png xlsx file exported from HR module in Odoo for Al-Tameer %}
+
+<br><br>
+
+Others were about Payroll module, and it was caculating the same xlsx result, but inside Odoo:
+
+<br>
+
+{% img /odoo/customizations/al-tameer/salary-caclculaton-sheet-odoo.png salary calculations sheet in Odoo for Al-Tameer %}
+
+<br>
+
+There were automatic emails that are sent, according to some criteria (e.g., end of the week or when the employee attendance is scoring low).
+
+<br>
+
+
+{% img /odoo/customizations/al-tameer/my-altameer-hr-attendance-and-leaves-summary-mail-1.png Attendance and leaves summary email using Odoo for Al-Tameer %}
+
+<br>
+
+I also developed a mobile app for this system, using Flutter, and below is the relationship between the app, Odoo and the attendance device/server.
+
+{% img /odoo/customizations/al-tameer/altameerhr-odoo-flutter-diagram.png AlTameer HR + Flutter diagrom %}
+
+<img src="/odoo/customizations/al-tameer/altameer-hr-flutter-english-ui-2.png" width="48%" alt="AlTameerHR flutter app - Checks page" loading="lazy" />
+
+<img src="/odoo/customizations/al-tameer/altameer-hr-flutter-english-ui-3.png" width="48%" alt="AlTameerHR flutter app - Summary page" loading="lazy" />
 
