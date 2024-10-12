@@ -96,7 +96,7 @@ deploy:
   type: git
   repo: https://github.com/bluemix/bluemix.github.io.git
   branch: master
-  message: "adding Odoo page"
+  message: "updating mobile apps page to include Talabatey apps"
 
 social:
   github: https://github.com/bluemix

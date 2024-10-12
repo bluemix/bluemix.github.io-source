@@ -1,12 +1,40 @@
 ---
-title: Mobile Apps Development
+title: Mobile Apps Projects
 lang: en
 date: 2017-08-28 09:08:46
 direction: ltr
 ---
 
-> Last update: 21.08.2024
+> Last update: 12.10.2024
  > TAGS: mobile apps development, android, jetpack compose, ios, java, kotlin, swift, flutter, dart
+ 
+>  **Table of Contents**
+> - Listing all of my mobile apps projects from 2012 till 2022
+> **Talabatey: August 2021 - March 2022**
+> - Medresty
+> - Drivers
+> - Partners
+> **Tatweer: January 2018 - May 2019**
+> - Hyundai GK-Auto
+> - E-Menu
+> **Some Open Source Mobile Projects**
+> - Tourism Demo App
+> - Gradient Screens 
+> - Gradient Widgets
+> **Freelancing: June 2017 - September 2017**
+> - Online سوق
+> **Earthlink Telecommunications: April 2015 - June 2017**
+> - Share
+> - Cinemana
+> - Cinemana Leanback
+> - Cinemana STB
+> - CBox Launcher
+> - MyHR
+> **Side projects: January 2017 - June 2017**
+> - Arasat
+> - Waraqa
+> **Undergraduate project: 2012**
+> - eCortex
 
 # Talabatey: August 2021 - March 2022
 
@@ -54,6 +82,104 @@ This app is used by restaurants to manage their orders (e.g., when a user orders
 <img src="/images/talabatey-projects/Partners/talabatey_partners_3.jpg" width="49%" alt="Talabatey Drivers app homepage with tasks to do" loading="lazy" />
 <img src="/images/talabatey-projects/Partners/talabatey_partners_2.jpg" width="49%" alt="Talabatey Drivers app homepage with tasks to do" loading="lazy" />
 
+
+# Tatweer: January 2018 - May 2019
+
+## Hyundai GK-Auto (Android <sup>[Link](https://play.google.com/store/apps/details?id=com.tatweer.hyundai)</sup>)
+
+GK-Auto is an official Hyundai partner in Iraq, and developing a specific app for their company was a challenging task. Gk-Auto mobile app has very good user experience and satisfaction, it it was my first app to be deployed on Google Play using Flutter.
+
+<br>
+<img src="/2018-a-year-to-remember/hyundai/hyundai-flutter-app-iq-0.png" width="49%" alt="GK-Auto app home screen" loading="lazy" />
+<img src="/2018-a-year-to-remember/hyundai/hyundai-flutter-app-iq-2.png" width="49%" alt="GK-Auto app car model screen" loading="lazy" />
+<img src="/2018-a-year-to-remember/hyundai/hyundai-flutter-app-iq-3.png" width="49%" alt="GK-Auto app car models screen" loading="lazy" />
+<img src="/2018-a-year-to-remember/hyundai/hyundai-flutter-app-iq-1.png" width="49%" alt="GK-Auto app car maintenance screen" loading="lazy" />
+<img src="/2018-a-year-to-remember/hyundai/hyundai-flutter-app-iq-7.png" width="49%" alt="GK-Auto app car model color screen" loading="lazy" />
+
+{% raw %}
+ <video width="50%"  controls>
+  <source src="/2018-a-year-to-remember/hyundai/hyundai-app-car-info-page2.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+{% endraw %}
+
+
+## E-Menu
+An electronic foods menu for browsing foods and dishes for the restaurant to be used by customers on tablets (iPads) instead of the regular paper-based menus. It was built using native Android, and distributed to the restaurant tablets (without using Google Play store).
+<br>
+
+<img src="/2018-a-year-to-remember/emenu-android/emenu-android-dishes-no-order.png" width="49%" alt="GK-Auto app car model color screen" loading="lazy" />
+
+{% raw %}
+ <video width="50%"  controls>
+  <source src="/2018-a-year-to-remember/emenu-android/emenu-android-demo.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+{% endraw %}
+
+
+# Some Open Source Mobile Projects
+
+Below are a couple of projects that I published on GitHub, and they're all built using Flutter.
+
+
+## <div><span style="float: left">Tourism Demo App</span><span style="float: right; margin-top: 4px">{% raw %}<a class="github-button" href="https://github.com/bluemix/tourism-demo" data-show-count="true" aria-label="Star bluemix/tourism-demo on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script>{% endraw %}</span></div>
+<br><br>
+
+It was Eid Al-Fitr (after Ramadan), and I wanted to build cutting-edge, beautiful, and fast. I wanted to build the best I can do with Flutter and then publishing it on GitHub. 
+
+<br>
+
+<img src="/2018-a-year-to-remember/tourism/flutter-tourism-demo-400x300.gif" width="100%" alt="tourism-demo-flutter" loading="lazy" />
+
+<video width="100%" controls>
+    <source src="/2018-a-year-to-remember/tourism/tourism-app-demo-4_2.mp4" type="video/mp4" />
+</video>
+
+
+<br><br>	
+
+I've published the app on [GitHub](https://github.com/bluemix/flutter-tourism-demo), and i hope people will like it more. It uses Redux, shows animations, internationalization (i18n), ClipPath, and fonts, among others. I focused on how to switch between Arabic and English in the app using Redux. It was really important for me, especially, I was really proud of it showing it in the Flutter time in Google I/O Extended - Baghdad.
+
+
+
+## <div><span style="float: left">Gradient Screens </span><span style="float: right; margin-top: 4px">{% raw %}<a class="github-button" href="https://github.com/bluemix/Gradient-Screens" data-show-count="true" aria-label="Star bluemix/Gradient-Screens on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script>{% endraw %}</span></div>
+<br><br>
+
+Inspired by gradients from AlTameerHR app, I said why not creating pages contains gradients, whether buttons, cards, or texts. So, I started designing those screens with the intent of publishing them on GitHub. Some of the screens were my designs, other taken from other UI designers. Below are the repo and its screenshots.
+
+<br>
+
+
+{% img /2018-a-year-to-remember/gradient-screens/gradient_screen_arabic_text_flutter.png 195 Gradients Screen with Arabic text in Flutter %}
+{% img /2018-a-year-to-remember/gradient-screens/intro_page.png 195 Gradients Screen with English text in Flutter %}
+{% img /2018-a-year-to-remember/gradient-screens/info_page.png 195 Gradients Screen in Flutter %}
+{% img /2018-a-year-to-remember/gradient-screens/login_page.png 195 Gradients Screens in Flutter %}
+{% img /2018-a-year-to-remember/gradient-screens/genres_page.png 195 Gradients Screens in Flutter %}
+{% img /2018-a-year-to-remember/gradient-screens/be_kind_page.png 195 Gradients Screens in Flutter %}
+<br>
+
+
+## <div><span style="float: left">Gradient Widgets</span><span style="float: right; margin-top: 4px">{% raw %}<a class="github-button" href="https://github.com/bluemix/gradient-widgets" data-show-count="true" aria-label="Star bluemix/gradient-widgets on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script>{% endraw %}</span></div>
+<br><br>
+
+The idea incepted from gradient-screens, by turning gradient widgets into a Dart package and publishing it on GitHub. 
+
+
+<center>
+{% img /2018-a-year-to-remember/gradient-widgets/gradient-widgets-flutter.png 260 Gradient Widgets in Flutter %}
+</center>
+
+Gradient progress was the longest one to develop. 
+
+<center>
+{% img /2018-a-year-to-remember/gradient-widgets/gradient_widgets_progress_demo.gif 400 Gradient Widgets in Flutter %}
+</center>
+
+I learned, I can publish the project when the main features are finished, and then continue enhancements later, otherwise, _I will never_ publish a project. 
+Those days where really hard and amazing 🙏🏼. 
+
+
 # Freelancing: June 2017 - September 2017
 
 ## Online سوق (Android, iOS)
@@ -68,11 +194,6 @@ An e-commerce app that allows government employees to shop by instalments and or
 {% img /images/projects/shopping-iq-android-home-ar.jpg 145 Online سوق Android app: Arabic home page %}
 
 <br><br>
-
-# Tatweer: July 2018 - 
-
-## Hunday GK-Auto
-## E-Menu
 
 
 # Earthlink Telecommunications: April 2015 - June 2017
@@ -197,9 +318,9 @@ Internal app for employees to request a vacation by days or by hours. It also sh
 
 <br><br>
 
-# Side projects
+# Side projects:  January 2017- June 2017
 
-## Arasat (Android<sup> [Link](http://arasat.chat)</sup>) - January 2017
+## Arasat (Android<sup> [Link](http://arasat.chat)</sup>)
 The basic idea of this project was to create an app for chat rooms, both and app and a back-end server using NodeJS.
 ### Main development features:
 #### Back-end using NodeJS and MongoDB
@@ -212,7 +333,7 @@ The basic idea of this project was to create an app for chat rooms, both and app
 {% img /images/projects/arasat-chat-room.jpg 145 MyHR Arasat android app: rooms %}
 
 
-## Waraqa (Android<sup> [Link](https://play.google.com/store/apps/details?id=io.fomalhaut.waraqa)</sup>): June 2017
+## Waraqa (Android<sup> [Link](https://play.google.com/store/apps/details?id=io.fomalhaut.waraqa)</sup>)
 
 A simple app that allows your to write beautiful cards and share it on your social media apps.
 ### Main development features:
